@@ -175,3 +175,51 @@ a {
     margin-bottom: 15px;
     padding: 0;
 }
+
+.middle{
+    background-color: rgb(247, 247, 247);
+    margin-top: 100px;
+    margin-bottom: 96px;
+}
+
+.middle__container{
+    padding: 57px 0 63px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 82px;
+}
+
+.middle__img{
+    position: absolute;
+    top: -2px;
+    width: 452px;
+    height: 472px;
+}
+
+.middle__box{
+    margin-left: 694px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.middle__title{
+    color: rgb(31, 46, 53);
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 133%;
+}
+
+.middle__red-color{
+    color: rgb(238, 66, 72);
+}
+
+.middle__info{
+    color: rgb(48, 68, 78);
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
