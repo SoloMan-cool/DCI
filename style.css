@@ -223,3 +223,67 @@ a {
     font-weight: 400;
     line-height: 150%;
 }
+
+.prefinish{
+    margin-top: 87px;
+    margin-bottom: 13px;
+}
+
+.prefinish__container{
+    display: flex;
+    align-items: center;
+    gap: 47px;
+    padding-right: auto;
+}
+
+.prefinish__dsi-part{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+/* .prefinish__logo-silak{} */
+
+.prefinish__logo{
+    width: 119px;
+    height: 56px;
+}
+
+.prefinish__DSI-title{
+    color: rgb(38, 50, 56);
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+}
+
+.prefinish__info{
+    color: rgb(38, 50, 56);
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 149%;
+}
+
+.prefinish__contract-part{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.prefinish__contract-title{
+    color: rgb(38, 50, 56);
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.prefinish__contract-info{
+    color: rgb(38, 50, 56);
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 149%;
+}
